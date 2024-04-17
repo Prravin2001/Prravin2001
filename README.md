@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Prravin Kumar A
+- 👀 I’m interested in Software Testing 
+- 🌱 I’m currently learning Python Selenium 
+- 💞️ I’m looking to collaborate on Software Engineer Role
+- 📫 How to reach me  Through email kprravin@gmail.com
